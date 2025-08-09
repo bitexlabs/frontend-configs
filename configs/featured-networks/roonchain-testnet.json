@@ -8,7 +8,7 @@
    },
    {
       "title":"Roonchain Testnet",
-      "url":"https://testnet.explorer.roonchain.com/",
+      "url":"https://testnets.explorer.roonchain.com/",
       "group":"Testnets",
       "isActive":true,
       "icon": "https://raw.githubusercontent.com/bitexlabs/frontend-configs/main/configs/network-icons/roonchain-short.png",

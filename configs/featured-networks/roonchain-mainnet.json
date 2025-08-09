@@ -4,14 +4,14 @@
       "url":"https://explorer.roonchain.com",
       "group":"Mainnets",
       "isActive":true,
-      "icon": "https://raw.githubusercontent.com/bitexlabs/frontend-configs/main/configs/network-icons/roonchain-short.svg",
+      "icon": "https://raw.githubusercontent.com/bitexlabs/frontend-configs/main/configs/network-icons/roonchain-short.png",
       "invertIconInDarkMode": true
    },
    {
       "title":"Roonchain Testnet",
-      "url":"https://testnet.roonchain.com/",
+      "url":"https://testnets.roonchain.com/",
       "group":"Testnets",
-      "icon": "https://raw.githubusercontent.com/bitexlabs/frontend-configs/main/configs/network-icons/roonchain-short.svg",
+      "icon": "https://raw.githubusercontent.com/bitexlabs/frontend-configs/main/configs/network-icons/roonchain-short.png",
       "invertIconInDarkMode": true
    }
 ]
